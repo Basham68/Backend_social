@@ -15,7 +15,7 @@
  - Forgot-Password is implemented where a user can reset the password by sending an email to the user.
  - For development stage,have made use of fake email sender.
  - user will get an email with reset password link.
- - 
+ 
  
  #USER, #ADD/DELETE POST, #FOLLOW/UNFOLLOW, #CHAT
  
