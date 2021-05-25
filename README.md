@@ -1,6 +1,6 @@
 # Backend_social
  
- This contains backend for mini social media where a user can login/register and follow/unfollow other users, Add/delete posts such as images,contents, start a conversation with another users and send messages.
+ This contains backend for mini social media where a user can register/login/logout/ reset password and follow/unfollow other users, Add/delete posts such as images,contents, start a conversation with another users and send messages.
  
  #Authentication , Register/Login/Logout
  
